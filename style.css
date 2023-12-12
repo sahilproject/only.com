@@ -780,3 +780,8 @@ footer .Copyright {
     margin-right: 10px;
   }
 }
+@media (max-width: 376px) {
+  .categories {
+    margin-top: 1050px;
+  }
+}
